@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src [SDLTest]'" />
-    <option name="defaultScopeName" value="Directory '.../src [SDLTest]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src [SDLTest]'" />
+    <option name="customScope" value="File '.../src/geometry/Vector.cpp [SDLTest]'" />
+    <option name="defaultScopeName" value="File '.../src/geometry/Vector.cpp [SDLTest]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/geometry/Vector.cpp [SDLTest]'" />
   </component>
 </application>
