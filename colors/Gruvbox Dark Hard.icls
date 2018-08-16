@@ -5,10 +5,9 @@
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
-    <option name="ANNOTATIONS_COLOR" value="928374" />
+    <option name="ANNOTATIONS_COLOR" value="928086" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d2021" />
@@ -39,6 +38,11 @@
     <option name="SELECTION_BACKGROUND" value="665c54" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="194015" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="1a2c40" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="3d1c40" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="401615" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="403318" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
